@@ -1,0 +1,36 @@
+#about{
+    width:96%;
+    margin:0 auto;
+    padding-left:2%;
+    padding-bottom:1%;
+    padding-right:2%;
+}
+
+#about:after{
+    clear:both;
+    content:"";
+    display:block;
+}
+
+#about h1{
+    text-align:center;
+    color:#6ecaef;
+    background-color: #fbfbfb;
+    border-bottom: 1px solid #edebf5;
+    -webkit-box-shadow: 0 8px 6px -6px #333333;
+    -moz-box-shadow: 0 8px 6px -6px #333333;
+    box-shadow: 0 8px 6px -6px #333333;
+}
+
+#about p{font-size:13px;}
+
+#about ul li{
+    font-size:13px;
+    list-style:square;
+    color:green;
+}
+
+#about h2{
+    margin:0px;
+   color:#6ecaef;
+}

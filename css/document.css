@@ -1,0 +1,66 @@
+
+.document .block:after{
+    clear:both;
+    content:"";
+    display:block;
+}
+
+.document .doc{
+    float:left;
+    margin-bottom:1%;
+    margin-right:3%;
+}
+
+.document .doc input{
+    padding:5px;
+    width:96%;
+    max-width:200px;
+    min-width:150px;
+}
+
+.document .doc input:focus{
+    border:1px solid #6ecaef;
+    box-shadow: 0 0 5px #6ecaef;
+}
+
+.document .doc select{
+    margin-right:2%; 
+    cursor:pointer;
+    padding:5px 10px 5px 10px;   
+    margin-right:2%;
+    width:100%;
+    max-width:200px;
+}
+
+.document .doc .profile-title,.doc1 .profile-title{
+    font-weight:bold;
+    font-size:14px;
+    color:#5b5965;
+}
+
+ .doc1 textarea{
+    width:98%;
+    max-width:700px;
+    border:1px solid grey;   
+    padding:5px;
+}
+.doc1 textarea:focus{
+    border:1px solid #6ecaef;
+    box-shadow: 0 0 5px #6ecaef;
+}
+
+.doc1{margin-bottom:1%;}
+
+.doc1 :after{
+    clear:both;
+    content:"";
+    display:block;
+}
+
+
+.block:after{
+    clear:both;
+    content:"";
+    display:block;
+}
+

@@ -1,0 +1,89 @@
+#lost-n-found{
+    width:100%;
+    margin:0 auto;
+    padding-bottom:2%;
+}
+
+#lost-n-found h1{
+    text-align:center;
+    color:#6ecaef;
+    background-color: #fbfbfb;
+    border-bottom: 1px solid #edebf5;
+    -webkit-box-shadow: 0 8px 6px -6px #333333;
+    -moz-box-shadow: 0 8px 6px -6px #333333;
+    box-shadow: 0 8px 6px -6px #333333;
+}
+
+.text{
+    font-size:13px;
+    text-align:left;
+}
+
+.text .details-title{
+    font-weight:bold;
+    color:#222126;
+}
+
+.text .type{
+    font-weight:bold;
+    color:#737474;
+}
+
+.text p{padding:0px;margin:0px;}
+
+.text-details a{
+    text-decoration:none;
+    display:block;
+    background-color:white;
+    text-align:center;
+    font-weight:bold;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-top:5px;
+    color:#0094c8;
+    cursor:pointer;
+    border-radius:5px;
+    border:1px solid #0094c8;
+    -webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+}
+
+.text-details a:hover{
+    background-color:#0094c8;
+    color:white;
+    border-bottom:1px solid blue;
+    border-right:1px solid blue;
+}
+
+.see-more{
+    margin-top:10px;
+    text-align:center;
+}
+
+.see-more a{
+    text-decoration:none;
+    padding:5px 10px 5px 10px;
+    color:black;
+    border-radius:2px;
+    border:1px solid #454545;
+}
+
+.see-more a:hover{
+    background-color: #454545;
+    color:white;
+    text-decoration:underline;
+}
+
+@media screen and (max-width: 950px){
+.boxes-full{border-left:0px; border-right:0px; margin-left:0px; margin-right:0px;}
+}
+
+@media screen and (max-width: 600px){
+	.element{width:46%;padding:0% 2% 10px 2%;}
+}
+
+@media screen and (max-width: 400px){
+.element{width:98%; margin:0 auto; margin-bottom:10px; padding:0px;}
+}

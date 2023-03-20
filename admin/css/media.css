@@ -1,0 +1,60 @@
+#lost-n-found{
+    width:100%;
+    margin:0 auto;
+    padding-bottom:2%;
+}
+
+#lost-n-found h1{
+    text-align:center;
+    color:#6ecaef;
+    background-color: #fbfbfb;
+    border-bottom: 1px solid #edebf5;
+    -webkit-box-shadow: 0 8px 6px -6px #333333;
+    -moz-box-shadow: 0 8px 6px -6px #333333;
+    box-shadow: 0 8px 6px -6px #333333;
+}
+
+.text{
+    font-size:13px;
+}
+
+.text .details-title{
+    font-weight:bold;
+    color:#222126;
+}
+
+.text .type{
+    font-weight:bold;
+    color:#737474;
+}
+
+.see-more{
+    margin-top:10px;
+    text-align:center;
+}
+
+.see-more a{
+    text-decoration:none;
+    padding:5px 10px 5px 10px;
+    color:black;
+    border-radius:2px;
+    border:1px solid #454545;
+}
+
+.see-more a:hover{
+    background-color: #454545;
+    color:white;
+    text-decoration:underline;
+}
+
+@media screen and (max-width: 950px){
+.boxes-full{border-left:0px; border-right:0px; margin-left:0px; margin-right:0px;}
+}
+
+@media screen and (max-width: 600px){
+	.element{width:46%;padding:0% 2% 10px 2%;}
+}
+
+@media screen and (max-width: 400px){
+.element{width:98%; margin:0 auto; margin-bottom:10px; padding:0px;}
+}

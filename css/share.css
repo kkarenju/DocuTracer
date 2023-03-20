@@ -1,0 +1,50 @@
+#share{}
+
+
+/*whatsapp share button*/
+.mct_whatsapp_btn {
+    margin-top:1%;
+    background: #11A518;
+    color: white;
+    font-size: 12px;
+    padding: 1px 5px 3px 20px;
+    border-radius: 2px;
+    position: relative;
+    transition: ease-in all 0.3s;
+    moz-transition: ease-in all 0.3s;
+    -o-transition:ease-in all 0.3s;
+    -webkit-transition: ease-in all 0.3s;
+    text-decoration: none;
+    box-shadow: inset 3px 1px 1px rgba(17, 165, 24, 0.25);
+    border: 1px solid #028408;
+}
+ 
+.mct_whatsapp_btn:before {
+    content: '';
+    background: url(../images/whatsapp.png);
+    position:absolute;
+    top: 1px;
+    left: 2px;
+    width:16px;
+    transition: ease-in all 0.3s;
+    moz-transition: ease-in all 0.3s;
+    -o-transition:ease-in all 0.3s;
+    -webkit-transition: ease-in all 0.3s;
+    height:16px;
+}
+ 
+.mct_whatsapp_btn:hover {
+    background: #028408;
+    text-decoration: none;
+    color:white;
+    border: 1px solid #11A518;
+    box-shadow: inset 3px 1px 1px rgba(2, 132, 8, 0.25);
+}
+ 
+.mct_whatsapp_btn:hover:before {
+    transform: rotate(360deg);
+}
+
+/*end of whatsapp share button*/
+
+/*twiter*/
