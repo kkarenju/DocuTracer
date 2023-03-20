@@ -79,7 +79,7 @@
 		<div class="row">
 			<div class="columns small-12">
                             <p class="bar-phone">
-                                <i class="fa fa-phone"></i> Call Us : <strong><a href="tel:+254 714 890 597" target="_blank"> +254 714 890 597</a></strong>
+                                <i class="fa fa-phone"></i> Call Us : <strong><a href="tel:+254 714 000 000" target="_blank"> +254 714 000 000</a></strong>
                             </p><!-- /.bar-phone -->
 				
                             <div class="bar-socials">

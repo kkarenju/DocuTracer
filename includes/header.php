@@ -185,7 +185,7 @@
                             <p class="bar-phone">
                                 <i class="fa fa-phone"></i> Call Us : 
                                 <strong>
-                                    <a href="tel:+254714890597" target="_blank"> +254714890597</a>&nbsp;&nbsp;/&nbsp;&nbsp;
+                                    <a href="tel:+254714000000" target="_blank"> +254714000000</a>&nbsp;&nbsp;/&nbsp;&nbsp;
                                     <a href="tel:+25470000000" target="_blank">+25470000000</a>
                                 </strong>
                             </p><!-- /.bar-phone -->
