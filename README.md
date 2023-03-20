@@ -9,6 +9,7 @@ Files accepted include: Bank ATM Cards, Employee Cards, Certificates, Official l
 
 Created using:
 >HTML5,
+>CSS
 >Javascript, JQuery
 >PHP5,
 >MySQL
