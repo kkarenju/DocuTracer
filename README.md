@@ -20,9 +20,22 @@ to login as user: http://localhost/login.php
 
 to login as admin: http://localhost/docutracer/admin/index.php
 
+Login details for user 1
+username: kenn@mail.com   
+Password: user
+
+
+login details for user 2
+username: betty@mail.com
+password: user
+
+Login details for admin
+username: admin@mail.com 
+password: admin
+
 Created using:
 >HTML5,
 >CSS
 >Javascript, JQuery
->PHP5,
->MySQL
+>PHP,
+>MySQLi
