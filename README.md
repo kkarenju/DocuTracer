@@ -8,7 +8,7 @@ The systems automatically matches found files with their rightful oweners and no
 Files accepted include: Bank ATM Cards, Employee Cards, Certificates, Official letters with reference numbers, National ID cards, Passports, among others.
 
 Created using:
-HTML5
-Javascript, JQuery
-PHP5
-MySQL
+>HTML5,
+>Javascript, JQuery
+>PHP5,
+>MySQL
