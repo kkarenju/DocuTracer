@@ -7,6 +7,11 @@ The systems automatically matches found files with their rightful oweners and no
 
 Files accepted include: Bank ATM Cards, Employee Cards, Certificates, Official letters with reference numbers, National ID cards, Passports, among others.
 
+The system supports three types of accounts:
+a) Member - normal user of the system
+b) Admin
+c) Super Admin
+
 Created using:
 >HTML5,
 >CSS
