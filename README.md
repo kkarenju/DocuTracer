@@ -14,6 +14,12 @@ b) Admin
 On your local server, create a database called 'docutracer', and import database file located inside the database folder.
 To configure database connection, edit the db_Connet.php file located at the root folder.
 
+to access system: http://localhost/docutracer
+to register as user: http://localhost/docutracer/register.php
+to login as user: http://localhost/login.php
+
+to login as admin: http://localhost/docutracer/admin/index.php
+
 Created using:
 >HTML5,
 >CSS
